@@ -62,6 +62,13 @@ Inception, The Matrix y The Dark Knight.
 
 ![Resultado](capturas/08_resultado.png)
 
+## 9. Commit y push
+
+Guardé el código, el README y las capturas mediante un commit.
+Después ejecuté git push origin main para subir los cambios a GitHub.
+
+![Commit y push](capturas/09_commit_push.png)
+
 ## Funcionamiento
 
 El programa calcula la valoración media por género de cada usuario.
